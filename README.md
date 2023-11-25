@@ -105,6 +105,9 @@ listItem.innerHTML = `Roll ${i + 1}: <span>${getDiceFace(historyList[i])}</span>
 <br>
 
 ## 학습 출처 
+**Youtube**  
+https://www.youtube.com/@JavaScriptKing  
+
 **CSS**   
 https://developer.mozilla.org/ko/docs  
 https://webstoryboy.co.kr/1659  
